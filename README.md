@@ -9,4 +9,4 @@
 
 #### Link de la aplicación:
 
-[lester-webapp](http://# ````` https://lester-webapp-83307efeba9d.herokuapp.com/ ````` "lester-webapp")
+[Lester WebApp](https://lester-webapp-83307efeba9d.herokuapp.com/ "Lester WebApp")
